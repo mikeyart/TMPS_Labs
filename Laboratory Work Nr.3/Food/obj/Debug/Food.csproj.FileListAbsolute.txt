@@ -1,0 +1,7 @@
+C:\Users\Ciclicci\Desktop\Food\Food\obj\Debug\Food.csprojAssemblyReference.cache
+C:\Users\Ciclicci\Desktop\Food\Food\obj\Debug\Food.csproj.CoreCompileInputs.cache
+C:\Users\Ciclicci\Desktop\Food\Food\bin\Debug\Food.exe.config
+C:\Users\Ciclicci\Desktop\Food\Food\bin\Debug\Food.exe
+C:\Users\Ciclicci\Desktop\Food\Food\bin\Debug\Food.pdb
+C:\Users\Ciclicci\Desktop\Food\Food\obj\Debug\Food.exe
+C:\Users\Ciclicci\Desktop\Food\Food\obj\Debug\Food.pdb
