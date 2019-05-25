@@ -27,5 +27,5 @@ Also we can clone menus using Prototype Pattern:
 
 ![alt text](Diagrams/3.PNG "Logo Title Text 1")
 
-Also earlier I mentioned that Franchise use a Singleton (only one Instance can exist) and provide us with an instance of a MenuNetwork class that we use to create PizzaStores.
+Also earlier I mentioned that Franchise use a Singleton (only one Instance can exist) and provide us with an instance of a MenuNetwork class that we use to create MenuStores.
 ![alt text](Diagrams/4.PNG "Logo Title Text 1")
