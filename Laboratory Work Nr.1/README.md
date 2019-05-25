@@ -20,10 +20,10 @@ In order to explain how it works, I am going to show it using several diagrams:
 Factory Design Pattern: 
 ![alt text](Diagrams/1.PNG "Logo Title Text 1")
 
-The Pizza is prepared using the Builder Pattern:  
+The Menu is prepared using the Builder Pattern:  
 ![alt text](Diagrams/2.PNG "Logo Title Text 1")
 
-Also we can clone pizzas using Prototype Pattern:
+Also we can clone menus using Prototype Pattern:
 
 ![alt text](Diagrams/3.PNG "Logo Title Text 1")
 
